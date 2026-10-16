@@ -1,6 +1,6 @@
-# Linha do Tempo Baniwa e Koripako
+# História Baniwa e Koripako
 
-Linha do tempo interativa sobre a história linguística, educacional, territorial e política dos povos Baniwa e Koripako.
+Site modular sobre a história linguística, educacional, territorial e política dos povos Baniwa e Koripako.
 
 ## Visualização
 
@@ -8,7 +8,10 @@ Abra o arquivo `index.html` em um navegador. Após a publicação pelo GitHub Pa
 
 ## Estrutura
 
-- `index.html`: linha do tempo, textos históricos e referências;
+- `index.html`: portal de entrada dos módulos;
+- `linha-do-tempo.html`: cronologia, textos históricos e imagens;
+- `cartografia.html`: módulo independente destinado aos mapas;
+- `bibliografia.html`: referências utilizadas no projeto;
 - `assets/imagens`: imagens utilizadas pela página;
 - `CREDITOS.md`: procedência e créditos das imagens;
 - `DIREITOS.md`: observações preliminares sobre reprodução e licenciamento.
@@ -19,4 +22,4 @@ Envie o conteúdo desta pasta para a raiz de um repositório público. Nas confi
 
 ## Manutenção
 
-Esta pasta é uma versão pública do projeto. Os PDFs, documentos de pesquisa, arquivos editáveis e materiais intermediários foram deliberadamente excluídos.
+Esta pasta é uma versão pública do projeto. Os módulos podem ser ligados entre si por hyperlinks, mas permanecem arquivos independentes. Os PDFs, documentos de pesquisa, arquivos editáveis e materiais intermediários foram deliberadamente excluídos.
