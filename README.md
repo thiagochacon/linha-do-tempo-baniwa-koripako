@@ -1,4 +1,4 @@
-# História Baniwa e Koripako
+# Diversidade Linguística Baniwa e Koripako
 
 Site modular sobre a história linguística, educacional, territorial e política dos povos Baniwa e Koripako.
 
